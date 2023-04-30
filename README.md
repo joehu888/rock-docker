@@ -1,1 +1,3 @@
 # rock-docker
+
+Containerized applications
